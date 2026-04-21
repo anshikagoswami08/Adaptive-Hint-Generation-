@@ -1,0 +1,7 @@
+{
+  "name": "Adaptive AI Learning Assistant",
+  "description": "A production-ready React frontend for an AI-powered educational platform featuring screen parsing, adaptive hints, and PDF analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
